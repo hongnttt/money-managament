@@ -1,0 +1,53 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "transactions_type": "expense",
+      "category": "Mua sắm",
+      "amount": 50,
+      "date": "2023-08-05",
+      "note": "Mua sắm tại siêu thị."
+    },
+    {
+      "id": 2,
+      "transactions_type": "income",
+      "category": "Lương",
+      "amount": 1500,
+      "date": "2023-08-06",
+      "note": "Nhận lương từ công ty."
+    },
+    {
+      "id": 3,
+      "transactions_type": "expense",
+      "category": "Ăn uống ngoài",
+      "amount": 30,
+      "date": "2023-08-06",
+      "note": "Dùng bữa tối cùng bạn bè tại nhà hàng."
+    },
+    {
+      "id": 4,
+      "transactions_type": "expense",
+      "category": "Di chuyển",
+      "amount": 20,
+      "date": "2023-08-07",
+      "note": "Đi taxi đến văn phòng."
+    },
+    {
+      "id": 5,
+      "transactions_type": "income",
+      "category": "Thưởng",
+      "amount": 200,
+      "date": "2023-08-08",
+      "note": "Nhận thưởng từ dự án."
+    }
+  ],
+  "categories": [
+    "Mua sắm",
+    "Ăn uống ngoài",
+    "Di chuyển",
+    "Lương",
+    "Thưởng",
+    "Khác"
+  ],
+  "total_expenses": 1600
+}
